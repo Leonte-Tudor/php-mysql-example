@@ -1,0 +1,67 @@
+body{
+    background-color: #2A2E32;
+    color: #17A88B;
+    font-family: Inconsolata;
+    font-size: 16pt;
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+
+.center-stuff{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.login-center{
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+}
+
+p{
+    margin:auto;
+}
+
+hr{
+    color:#44853A;
+}
+
+h1{
+    margin:auto;
+}
+
+a {
+    text-decoration: none;
+    color:#44853A;
+}
+
+ul{
+    margin:auto;
+}
+
+li{
+    display: inline;
+    list-style-type: none;
+    padding: 20px;
+}
+
+
+.img_db {
+    width:auto;
+    height:200px;
+}
+
+.tux{
+    width:400px;
+    height:auto;
+    margin:auto;
+}
