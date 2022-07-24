@@ -1,2 +1,2 @@
 # php-mysql-example
-A basic site that uses php to manage an image database.
+A basic site that uses php and MariaDB(MySQL) to manage an image database.
